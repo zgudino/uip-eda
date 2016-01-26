@@ -5,4 +5,4 @@
 Programa simple calcula salario de un conjunto de empleados. La estructura de dato empleado `struct` nos permite imitir una clase (objeto).
 
 ### Licencia
-MIT © 2015
+MIT © 2016
